@@ -9,6 +9,8 @@ If you would like to contribute to the project feel free. Any and all changes in
 
 ### AUTHORS AND CONTRIBUTORS
 Fluffer Nutter
+CyberWolf
+Joe Joe
 
 ### SUPPORT AND CONTACT
 Twitter: <br> https://twitter.com/Fluffer_Nutter_ <br>
