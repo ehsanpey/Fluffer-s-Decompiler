@@ -1,0 +1,9 @@
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\bin\Debug\Fluffers CE Decompiler.exe.config
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\bin\Debug\Fluffers CE Decompiler.exe
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\bin\Debug\Fluffers CE Decompiler.pdb
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\obj\Debug\Fluffers CE Decompiler.csprojResolveAssemblyReference.cache
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\obj\Debug\Fluffers_CE_Decompiler.MainForm.resources
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\obj\Debug\Fluffers_CE_Decompiler.Properties.Resources.resources
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\obj\Debug\Fluffers CE Decompiler.csproj.GenerateResource.Cache
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\obj\Debug\Fluffers CE Decompiler.exe
+C:\Users\Fluffer\Desktop\Fluffers CE Decompiler Public\Fluffers CE Decompiler\obj\Debug\Fluffers CE Decompiler.pdb
