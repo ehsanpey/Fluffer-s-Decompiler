@@ -8,8 +8,8 @@ This tool is 100% open source but is protected under the GNU GENERAL PUBLIC LICE
 If you would like to contribute to the project feel free. Any and all changes in new releases will have credit section for anyone who contributes.
 
 ### AUTHORS AND CONTRIBUTORS
-Fluffer Nutter
-CyberWolf
+Fluffer Nutter <br>
+CyberWolf <br>
 Joe Joe
 
 ### SUPPORT AND CONTACT
