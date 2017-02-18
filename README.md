@@ -13,6 +13,6 @@ CyberWolf <br>
 Joe Joe
 
 ### SUPPORT AND CONTACT
-Twitter: <br> https://twitter.com/Fluffer_Nutter_ <br>
-Google+: <br> https://plus.google.com/b/117929722454561349984/117929722454561349984 <br>
-YouTube: <br> https://www.youtube.com/channel/UCK1-T-bX7MW__mBNEwB2qDg
+Website: <br> http://www.cyberterminators.co <br>
+YouTube: <br> https://www.youtube.com/CyberWolf0077
+FaceBook: <br> https://www.facebook.com/groups/c.terminators
